@@ -569,15 +569,4 @@ public class GameActivity extends AppCompatActivity {
 
         return super.onKeyDown(keyCode, event);
     }
-
-    @Override
-    public void onWindowFocusChanged(boolean hasFocus) {
-        super.onWindowFocusChanged(hasFocus);
-
-        if(musicStatus.equals("enabled"))
-            if(!hasFocus)
-                inGameMusic.pause();
-            else
-                inGameMusic.start();
-    }
 }
