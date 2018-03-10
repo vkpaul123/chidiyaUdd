@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chidiya Udd</string>
+
+    <string name="SharedPreferencesFileName">com.chidiyaudd.sharedpref.file</string>
+
+    <string name="bird1">Sparrow</string>
+    <string name="bird2">Crow</string>
+    <string name="bird3">Parrot</string>
+    <string name="bird4">Woodpecker</string>
+    <string name="bird5">Duck</string>
+
+    <string name="nonbird1">Cat</string>
+    <string name="nonbird2">Dog</string>
+    <string name="nonbird3">Fish</string>
+    <string name="nonbird4">Cow</string>
+    <string name="nonbird5">Rat</string>
+</resources>
